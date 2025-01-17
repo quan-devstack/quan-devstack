@@ -2,9 +2,7 @@
 
 ## About Me
 
-I am gay =)))
-
----
+My name is Do Khac Quan. I graduated at Greenwich Vietnam University. My major I followed in 4 years study is Information Technology (IT). I currently is directing to become a Web Developer. My experiences come from personal project I pinned in below. Continue...
 
 ## Technologies & Tools
 
