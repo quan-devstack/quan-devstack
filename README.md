@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a programmer with strong basic knowldege in Information Technology. I graduted at Greenwich Vietnam University. I curently follow career as a Developer in Web Development field with In-depth orientation on JavaScript / TypeScript programming language. I have experiened as a Intern at FPT Software and build some personal project which the topic come from real world example as Social Media, Ecommerce, Blog, ... In the future, I am planning to become an Full-Stack Developer with more extra skills like DevOps, Mobile App Development, ...
+I am a programmer with strong basic knowldege in Information Technology. I graduted at Greenwich Vietnam University. I curently follow career as a Developer in Web Development field with In-depth orientation on JavaScript / TypeScript programming language. I have experiened as a Intern at FPT Software and build some personal project which the topic come from real world example as Social Media, Ecommerce, Blog, ...
 
 I am always looking for opportunities to apply technology to solve real-world problems, and am constantly learning to improve my skills and stay up to date with the latest technology trends.
 
